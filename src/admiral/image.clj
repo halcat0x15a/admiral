@@ -16,9 +16,9 @@
 (def operation (image "map_1_1"))
 (def full (image "full"))
 (def decision (image "decision"))
-(def start (image "start"))
-(def advance (image "withdraw"))
-(def chase (image "chase"))
+(def start (image "sally_start"))
+(def advance (image "sally_retreat"))
+(def pursuit (image "sally_discontinue"))
 
 (def checkbox (image "checkbox"))
 (def supply (image "supply"))
