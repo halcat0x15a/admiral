@@ -37,5 +37,3 @@
 (def scrap (image "scrap"))
 
 (def home (image "home"))
-
-(def option (image "option"))
